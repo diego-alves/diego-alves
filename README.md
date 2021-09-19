@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diego-alves
+- 👀 I’m interested in programming, games and animes.
+- 🌱 I’m currently learning python, go and vue.js.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 Reach me by e-mail dfqalves@gmail.com.
